@@ -1,0 +1,17 @@
+﻿"laba1.exe" (Win32). Загружено "C:\Users\ноутбук\source\repos\laba1\Debug\laba1.exe". Символы загружены.
+"laba1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"laba1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"laba1.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"laba1.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"laba1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x207c завершился с кодом 0 (0x0).
+"laba1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"laba1.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"laba1.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"laba1.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
+"laba1.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"laba1.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"laba1.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+Поток 0x82c завершился с кодом 0 (0x0).
+Поток 0xf9c завершился с кодом 0 (0x0).
+Программа "[2272] laba1.exe" завершилась с кодом 0 (0x0).
